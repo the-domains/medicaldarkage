@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "For One Thing, Psychiatry Doesn't Actually Work"
-datePublished: '2015-12-28T20:43:33.701Z'
-dateModified: '2015-12-28T20:43:27.720Z'
+datePublished: '2015-12-28T20:44:46.071Z'
+dateModified: '2015-12-28T20:44:42.687Z'
 title: The Revelations
 author: []
 sourcePath: _posts/2015-12-28-the-revelations.md
