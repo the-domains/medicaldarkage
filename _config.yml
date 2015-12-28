@@ -1,0 +1,29 @@
+name: MedicalDarkAge
+favicon: null
+layout_spectrum: 0.5212824589107186
+typography_spectrum: 0.3906832553911954
+title: Medical Dark Age
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8724459372460842
+  lightness: 0.14151367777958512
+  saturation: 0.05566732259467244
+  rhythmicContrast: 0.18888388411141932
+purpose: []
