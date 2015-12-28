@@ -4,7 +4,7 @@
         <description><![CDATA[Medical Dark Age]]></description>
         <link>https://thegrid.ai/medicaldarkage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 21:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 21:38:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/medicaldarkage/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Revelation #1]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/medicaldarkage/revelation-1/index.html</link>
             <guid isPermaLink="false">fb033083-9c4b-442e-ab67-20d45af7fa7f</guid>
             <pubDate>Mon, 28 Dec 2015 21:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Revelations]]></title>
-            <description><![CDATA[<article><h1>The Revelations</h1><p>The Knight's Dream - Antonio de Pereda  [Public domain], via Wikimedia Commons</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b789d6b484645831e5a20afbdb98ba1fd03b98c4.jpg"></article>]]></description>
-            <link>https://thegrid.ai/medicaldarkage/the-revelations/index.html</link>
-            <guid isPermaLink="false">f1705f8e-42fc-42b7-ac59-722cfd9b7ee4</guid>
-            <pubDate>Mon, 28 Dec 2015 21:34:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
