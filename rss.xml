@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Medical Dark Age]]></title>
         <description><![CDATA[Medical Dark Age]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/medicaldarkage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 20:45:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Dec 2015 20:47:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/medicaldarkage/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Revelation #1]]></title>
+            <description><![CDATA[<article><h1>Revelation #1</h1><p>While DSM has been described as a “Bible” for the field (psychiatry), it is, at best, a dictionary, creating a set of labels and defining each...Unlike our definitions of ischemic heart disease, lymphoma, or AIDS, the DSM diagnoses are based on a consensus about clusters of clinical symptoms, not any objective laboratory measure. In the rest of medicine, this would be equivalent to creating diagnostic systems based on the nature of chest pain or the quality of fever. Indeed, symptom-based diagnosis, once common in other areas of medicine, has been largely replaced in the past half century as we have understood that symptoms alone rarely indicate the best choice of treatment. Thomas Insel M.D. - Director of NIMH</p></article>]]></description>
+            <link>https://thegrid.ai/medicaldarkage/revelation-1/index.html</link>
+            <guid isPermaLink="false">fb033083-9c4b-442e-ab67-20d45af7fa7f</guid>
+            <pubDate>Mon, 28 Dec 2015 20:47:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Revelations]]></title>
-            <description><![CDATA[<article><h1>The Revelations</h1><p>The Knight's Dream - Antonio de Pereda  [Public domain], via Wikimedia Commons</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c142b8779e87ff1232a81e973387bce84988796.jpg"></article>]]></description>
-            <link>undefinedthe-revelations/index.html</link>
+            <description><![CDATA[<article><h1>The Revelations</h1><p>The Knight's Dream - Antonio de Pereda  [Public domain], via Wikimedia Commons</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b789d6b484645831e5a20afbdb98ba1fd03b98c4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/medicaldarkage/the-revelations/index.html</link>
             <guid isPermaLink="false">f1705f8e-42fc-42b7-ac59-722cfd9b7ee4</guid>
             <pubDate>Mon, 28 Dec 2015 20:45:29 GMT</pubDate>
         </item>
