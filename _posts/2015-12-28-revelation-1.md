@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Recession of the Human Mind
-datePublished: '2015-12-28T20:44:05.126Z'
-dateModified: '2015-12-28T20:44:01.773Z'
+datePublished: '2015-12-28T20:45:54.353Z'
+dateModified: '2015-12-28T20:45:51.244Z'
 title: 'Revelation #1'
 author: []
 sourcePath: _posts/2015-12-28-revelation-1.md
