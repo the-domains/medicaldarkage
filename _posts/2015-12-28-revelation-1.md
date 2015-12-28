@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: The Recession of the Human Mind
-datePublished: '2015-12-28T20:46:27.279Z'
-dateModified: '2015-12-28T20:46:20.882Z'
+datePublished: '2015-12-28T20:47:17.566Z'
+dateModified: '2015-12-28T20:47:11.997Z'
 title: 'Revelation #1'
 author: []
 sourcePath: _posts/2015-12-28-revelation-1.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: revelation-1/index.html
-_type: WebPage
+_type: Article
 
 ---
 While DSM has been described as a "Bible" for the field (psychiatry), it is, at best, a dictionary, creating a set of labels and defining each...Unlike our definitions of ischemic heart disease, lymphoma, or AIDS, the DSM diagnoses are based on a consensus about clusters of clinical symptoms, not any objective laboratory measure. In the rest of medicine, this would be equivalent to creating diagnostic systems based on the nature of chest pain or the quality of fever. Indeed, symptom-based diagnosis, once common in other areas of medicine, has been largely replaced in the past half century as we have understood that symptoms alone rarely indicate the best choice of treatment. Thomas Insel M.D. - Director of NIMH
