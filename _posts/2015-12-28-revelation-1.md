@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Recession of the Human Mind
-datePublished: '2015-12-28T20:58:46.382Z'
-dateModified: '2015-12-28T20:58:36.250Z'
+datePublished: '2015-12-28T21:22:24.787Z'
+dateModified: '2015-12-28T21:22:19.289Z'
 title: 'Revelation #1'
 author: []
 sourcePath: _posts/2015-12-28-revelation-1.md
@@ -22,8 +22,6 @@ url: revelation-1/index.html
 _type: Article
 
 ---
-> While DSM has been described as a "Bible" for the field (psychiatry), it is, at best, a dictionary, creating a set of labels and defining each...Unlike our definitions of ischemic heart disease, lymphoma, or AIDS, the DSM diagnoses are based on a consensus about clusters of clinical symptoms, not any objective laboratory measure. In the rest of medicine, this would be equivalent to creating diagnostic systems based on the nature of chest pain or the quality of fever. Indeed, symptom-based diagnosis, once common in other areas of medicine, has been largely replaced in the past half century as we have understood that symptoms alone rarely indicate the best choice of treatment. [Thomas Insel M.D. - Director of NIMH][0]
-
-
+While DSM has been described as a "Bible" for the field (psychiatry), it is, at best, a dictionary, creating a set of labels and defining each...Unlike our definitions of ischemic heart disease, lymphoma, or AIDS, the DSM diagnoses are based on a consensus about clusters of clinical symptoms, not any objective laboratory measure. In the rest of medicine, this would be equivalent to creating diagnostic systems based on the nature of chest pain or the quality of fever. Indeed, symptom-based diagnosis, once common in other areas of medicine, has been largely replaced in the past half century as we have understood that symptoms alone rarely indicate the best choice of treatment. [Thomas Insel M.D. - Director of NIMH][0]
 
 [0]: http://www.nimh.nih.gov/about/director/2013/transforming-diagnosis.shtml
